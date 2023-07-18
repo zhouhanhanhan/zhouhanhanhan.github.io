@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Qintong Li</title>
+    <link>https://qtli.github.io/publication/</link>
+      <atom:link href="https://qtli.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 14:33:31 +0800</lastBuildDate>
+    <image>
+      <url>https://qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://qtli.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://qtli.github.io/publication/protein/</link>
+      <pubDate>Tue, 23 May 2023 14:33:31 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepfake Text Detection in the Wild</title>
+      <link>https://qtli.github.io/publication/detection/</link>
+      <pubDate>Tue, 23 May 2023 14:25:53 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanation Regeneration via Information Bottleneck</title>
+      <link>https://qtli.github.io/publication/eib/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/eib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cognitive Stimulation Dialogue System with Multi-source Knowledge Fusion for Elders with Cognitive Impairment</title>
+      <link>https://qtli.github.io/publication/csconv/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/csconv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Zero-shot Learning via Dataset Generation</title>
+      <link>https://qtli.github.io/publication/zerogen/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/zerogen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Transition Planning for Open-ended Text Generation</title>
+      <link>https://qtli.github.io/publication/eventplan4textgen/</link>
+      <pubDate>Sun, 22 May 2022 20:40:35 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/eventplan4textgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Bridging for Empathetic Dialogue Generation</title>
+      <link>https://qtli.github.io/publication/kemp/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/kemp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstractive Opinion Tagging</title>
+      <link>https://qtli.github.io/publication/aot/</link>
+      <pubDate>Fri, 16 Oct 2020 22:43:13 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/aot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation</title>
+      <link>https://qtli.github.io/publication/empdg/</link>
+      <pubDate>Fri, 02 Oct 2020 20:40:35 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/empdg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

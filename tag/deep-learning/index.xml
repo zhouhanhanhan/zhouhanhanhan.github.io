@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Qintong Li</title>
+    <link>https://qtli.github.io/tag/deep-learning/</link>
+      <atom:link href="https://qtli.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://qtli.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>eComTag Dataset</title>
+      <link>https://qtli.github.io/project/ecomtag/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/project/ecomtag/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;eComTag&lt;/strong&gt; is collected from Chinese e-commerce websites, containing reviews and opinion tags for 50,068 items.
+This dataset is to facilitate the abstractive opinion tagging task, which aims to generate opinion tags based on large volumes of item reviews.&lt;/p&gt;
+&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;The eComTag dataset is available strictly for non-commercial research purposes only.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;All reviews and tags are obtained from the Internet, which is not the property of the authors, or any associated employers, entities or institutions. We do not bear responsibility for either the content or meaning of these reviews and answers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;By requesting and/or using this dataset, you agree not to reproduce, duplicate, copy, sell, trade, resell, rent or exploit for any commercial purpose, any portion of the contexts and any portion of derived data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We reserve the right to terminate your access to the eComTag dataset at any time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;Please use this 
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdC3J4TUVng6FinP2J3meMg_vjkahPAw63MOaA415glCwjiOg/viewform?usp=sf_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google form&lt;/a&gt; to submit your information and request access to eComTag.&lt;/p&gt;
+&lt;h2 id=&#34;data-format&#34;&gt;Data Format&lt;/h2&gt;
+&lt;p&gt;Readers can directly refer to the README.md in the downloaded file for more extensive instructions.
+Also, we provide a brief overview in the 
+&lt;a href=&#34;https://github.com/qtli/AOT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The whole dataset, including train, validation, and test, is saved in a pickle file (ecomtag_dataset_preproc.p)
+Besides, we provide items by domain for future work.&lt;/p&gt;
+&lt;h2 id=&#34;paper&#34;&gt;Paper&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2101.06880.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstractive Opinion Tagging&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Qintong Li, Piji Li, Xinyi Li, Zhaochun Ren, Zhumin Chen, and Maarten de Rijke.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{li2020aot,
+  title={Abstractive Opinion Tagging},
+  author={Qintong, Li and Piji, Li and Xinyi Li and Zhaochun, Ren and Zhumin, Chen and Maarten, de Rijke},
+  booktitle={WSDM},
+  year={2021}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Please reach out to 
+&lt;a href=&#34;mailto:qtleo@outlook.com&#34;&gt;qtleo@outlook.com&lt;/a&gt; for any questions about the dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

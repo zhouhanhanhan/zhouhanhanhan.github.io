@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhiyong Wu | Qintong Li</title>
+    <link>https://qtli.github.io/author/zhiyong-wu/</link>
+      <atom:link href="https://qtli.github.io/author/zhiyong-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhiyong Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhiyong Wu</title>
+      <link>https://qtli.github.io/author/zhiyong-wu/</link>
+    </image>
+    
+    <item>
+      <title>Explanation Regeneration via Information Bottleneck</title>
+      <link>https://qtli.github.io/publication/eib/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/eib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Zero-shot Learning via Dataset Generation</title>
+      <link>https://qtli.github.io/publication/zerogen/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/zerogen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

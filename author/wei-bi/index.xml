@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Bi | Qintong Li</title>
+    <link>https://qtli.github.io/author/wei-bi/</link>
+      <atom:link href="https://qtli.github.io/author/wei-bi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Bi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 14:25:53 +0800</lastBuildDate>
+    <image>
+      <url>https://qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_3.png</url>
+      <title>Wei Bi</title>
+      <link>https://qtli.github.io/author/wei-bi/</link>
+    </image>
+    
+    <item>
+      <title>Deepfake Text Detection in the Wild</title>
+      <link>https://qtli.github.io/publication/detection/</link>
+      <pubDate>Tue, 23 May 2023 14:25:53 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanation Regeneration via Information Bottleneck</title>
+      <link>https://qtli.github.io/publication/eib/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/eib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Transition Planning for Open-ended Text Generation</title>
+      <link>https://qtli.github.io/publication/eventplan4textgen/</link>
+      <pubDate>Sun, 22 May 2022 20:40:35 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/eventplan4textgen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qintong Li</title>
+    <link>https://qtli.github.io/</link>
+      <atom:link href="https://qtli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qintong Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 14:33:31 +0800</lastBuildDate>
+    <image>
+      <url>https://qtli.github.io/images/icon_hu24c8994ac746bc76e413bbf48e0f5d7c_7912_512x512_fill_lanczos_center_3.png</url>
+      <title>Qintong Li</title>
+      <link>https://qtli.github.io/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://qtli.github.io/publication/protein/</link>
+      <pubDate>Tue, 23 May 2023 14:33:31 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepfake Text Detection in the Wild</title>
+      <link>https://qtli.github.io/publication/detection/</link>
+      <pubDate>Tue, 23 May 2023 14:25:53 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanation Regeneration via Information Bottleneck</title>
+      <link>https://qtli.github.io/publication/eib/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/eib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cognitive Stimulation Dialogue System with Multi-source Knowledge Fusion for Elders with Cognitive Impairment</title>
+      <link>https://qtli.github.io/publication/csconv/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/csconv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Zero-shot Learning via Dataset Generation</title>
+      <link>https://qtli.github.io/publication/zerogen/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/zerogen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Transition Planning for Open-ended Text Generation</title>
+      <link>https://qtli.github.io/publication/eventplan4textgen/</link>
+      <pubDate>Sun, 22 May 2022 20:40:35 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/eventplan4textgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Bridging for Empathetic Dialogue Generation</title>
+      <link>https://qtli.github.io/publication/kemp/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/publication/kemp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TA of COMP3361</title>
+      <link>https://qtli.github.io/post/ta/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/post/ta/</guid>
+      <description>&lt;p&gt;I serve as a teacher assistant for course &lt;a href=&#34;https://nlp.cs.hku.hk/comp3361/&#34;&gt;Natural Language Processing COMP3361&lt;/a&gt;. (2021 Fall, 2022 Fall)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eComTag Dataset</title>
+      <link>https://qtli.github.io/project/ecomtag/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://qtli.github.io/project/ecomtag/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;eComTag&lt;/strong&gt; is collected from Chinese e-commerce websites, containing reviews and opinion tags for 50,068 items.
+This dataset is to facilitate the abstractive opinion tagging task, which aims to generate opinion tags based on large volumes of item reviews.&lt;/p&gt;
+&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;The eComTag dataset is available strictly for non-commercial research purposes only.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;All reviews and tags are obtained from the Internet, which is not the property of the authors, or any associated employers, entities or institutions. We do not bear responsibility for either the content or meaning of these reviews and answers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;By requesting and/or using this dataset, you agree not to reproduce, duplicate, copy, sell, trade, resell, rent or exploit for any commercial purpose, any portion of the contexts and any portion of derived data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We reserve the right to terminate your access to the eComTag dataset at any time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+&lt;p&gt;Please use this 
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdC3J4TUVng6FinP2J3meMg_vjkahPAw63MOaA415glCwjiOg/viewform?usp=sf_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google form&lt;/a&gt; to submit your information and request access to eComTag.&lt;/p&gt;
+&lt;h2 id=&#34;data-format&#34;&gt;Data Format&lt;/h2&gt;
+&lt;p&gt;Readers can directly refer to the README.md in the downloaded file for more extensive instructions.
+Also, we provide a brief overview in the 
+&lt;a href=&#34;https://github.com/qtli/AOT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The whole dataset, including train, validation, and test, is saved in a pickle file (ecomtag_dataset_preproc.p)
+Besides, we provide items by domain for future work.&lt;/p&gt;
+&lt;h2 id=&#34;paper&#34;&gt;Paper&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2101.06880.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstractive Opinion Tagging&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Qintong Li, Piji Li, Xinyi Li, Zhaochun Ren, Zhumin Chen, and Maarten de Rijke.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@inproceedings{li2020aot,
+  title={Abstractive Opinion Tagging},
+  author={Qintong, Li and Piji, Li and Xinyi Li and Zhaochun, Ren and Zhumin, Chen and Maarten, de Rijke},
+  booktitle={WSDM},
+  year={2021}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Please reach out to 
+&lt;a href=&#34;mailto:qtleo@outlook.com&#34;&gt;qtleo@outlook.com&lt;/a&gt; for any questions about the dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstractive Opinion Tagging</title>
+      <link>https://qtli.github.io/publication/aot/</link>
+      <pubDate>Fri, 16 Oct 2020 22:43:13 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/aot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empathetic Dialogue Generation</title>
+      <link>https://qtli.github.io/project/emp_dia_gen/</link>
+      <pubDate>Thu, 08 Oct 2020 15:18:42 +0800</pubDate>
+      <guid>https://qtli.github.io/project/emp_dia_gen/</guid>
+      <description>&lt;p&gt;A humanized dialogue system is expected to generate empathetic replies, which should be sensitive to the users’ expressed emotion. The task of empathetic dialogue generation is proposed to address this problem. The essential challenges lie in (1) accurately capturing the nuances of human emotion, (2) modelling complex emotional dependencies between conversation partners, and (3) considering the potential of user feedback, which are overlooked by the majority of existing work. In response to this problem, we propose two empathetic dialogue generation frameworks in two different directions.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-figure-1-an-empathetic-dialogue-example-from-dataset-empatheticdialogues-the-emotional-related-words-are-highlighted-in-blue--proud-is-the-coarse-grained-emotional-label--these-emotional-words-are-labelled-by-an-external-emotion-lexicon-mohammad-and-turney-2013&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://qtli.github.io/media/empdg.png&#34; data-caption=&#34;Figure 1: An empathetic dialogue example from dataset EmpatheticDialogues. The emotional-related words are highlighted in blue.  &amp;amp;ldquo;Proud&amp;amp;rdquo; is the coarse-grained emotional label.  These emotional words are labelled by an external emotion lexicon (Mohammad and Turney, 2013).&#34;&gt;
+
+
+  &lt;img src=&#34;https://qtli.github.io/media/empdg.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Figure 1: An empathetic dialogue example from dataset EmpatheticDialogues. The emotional-related words are highlighted in blue.  &amp;ldquo;Proud&amp;rdquo; is the coarse-grained emotional label.  These emotional words are labelled by an external emotion lexicon (Mohammad and Turney, 2013).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;As shown in Figure 1, we list an example from the benchmark dataset EmpatheticDialogues (Rashkin et al., 2019).
+Notably, emotional words in the three serial utterances between interlocutors have nuanced emotional connections, i.e., “new, job” in utterance 1, “amazing, excited” in utterance 2, and “excited” in utterance 3. Without considering fine-grained emotional words, the responses generated by existing methods are trivialand uninformed, even though they expressed the appropriate emotions. Therefore, explicitly modellingthe fine-grained emotional factor is necessary.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We propose a multi-resolution adversarial model – EmpDG, to generate more empathetic responses, which is accepted by COLING 2020&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- The code and paper will be released soon.  --&gt;
+&lt;p&gt;EmpDG exploits both the coarse-grained dialogue-level and fine-grained token-level emotions, the latter of which helps to better capture the nuances of user emotion. In addition, we introduce an interactive adversarial learning framework which exploits the user feedback, to identify whether the generated responses evoke emotion perceptivity in dialogues. Experimental results show that the proposed approach significantly outperforms the state-of-the-art baselines in both content quality and emotion perceptivity.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-figure-2-an-example-of-empathetic-dialogues-with-external-knowledge-from-empatheticdialogues-emotional-related-words-in-the-dialogue-are-highlighted-in-red-color-whereas-emotion-related-concepts-are-marked-in-blue-numbers-in-parentheses-denote-emotional-intensity-values&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://qtli.github.io/media/mkedg_1.jpg&#34; data-caption=&#34;Figure 2: An example of empathetic dialogues with external knowledge from EmpatheticDialogues. Emotional-related words in the dialogue are highlighted in red color, whereas emotion-related concepts are marked in blue. Numbers in parentheses denote emotional intensity values.&#34;&gt;
+
+
+  &lt;img src=&#34;https://qtli.github.io/media/mkedg_1.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Figure 2: An example of empathetic dialogues with external knowledge from EmpatheticDialogues. Emotional-related words in the dialogue are highlighted in red color, whereas emotion-related concepts are marked in blue. Numbers in parentheses denote emotional intensity values.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Lacking external knowledge makes it difficult to perceive implicit emotionsfrom limited dialogue history. To address the above challenges,we propose to leverage multi-type knowledge, i.e, the commonsense knowledge and emotional lexicon, to explicitly understand and express emotions in empathetic dialogue generation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We propose a multi-type knowledge aware empathetic dialogue generation framework, to explicitly understand and express emotions in empathetic dialogue generation, which is submitted to AAAI 2021&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We first enrich the dialogue history by jointly interactingwith two-type knowledge and construct an emotional contextgraph. Then we introduce a multi-type knowledge-aware context encoder to learn emotional context representations anddistill emotional signals, which are the prerequisites to predicate emotions expressed in responses. Finally, we proposean emotional cross-attention mechanism to exploit the emotional dependencies between the emotional context graph andthe target empathetic response. The proposed framework makes it easier to accurately perceive and appropriately express implicit emotions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation</title>
+      <link>https://qtli.github.io/publication/empdg/</link>
+      <pubDate>Fri, 02 Oct 2020 20:40:35 +0800</pubDate>
+      <guid>https://qtli.github.io/publication/empdg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Summarization</title>
+      <link>https://qtli.github.io/project/summarization/</link>
+      <pubDate>Sun, 16 Aug 2020 16:12:19 +0800</pubDate>
+      <guid>https://qtli.github.io/project/summarization/</guid>
+      <description>&lt;p&gt;Given single-documents or multi-documents, summarizing the opinions expressed of the input is a vital task in NLP.
+I divide the current researches into two categories: &lt;strong&gt;keyphrase generation&lt;/strong&gt; and &lt;strong&gt;opinion summarization&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keyphrase generation&lt;/strong&gt;: A lot of research has been conducted on generating keyphrases tosummarize various types of text. Early approaches to keyphrase generation extract important phrasesfrom the document as the results. Sequence tagging models havebeen applied to identify keyphrases. Retrieval-based approaches utilize a two-step pipeline to extract and rank candidate keyphrases. Sun et al.[1] adopt an extractive graph-based approach, which applies a point network to generate a set of diverse keyphrases. More recently, abstractive approaches havebeen explored. Chan et al.[2] propose a reinforcement learning approach for neural keyphrase generation that encourages a model to generate both sufficient and accurate keyphrases. Wang et al.[3] propose a topic-aware neural keyphrase generation method toidentify topic words.
+The methods listed above only consider keyphrase generation given a single document.
+Our work 
+&lt;a href=&#34;https://qtli.github.io/publication/aot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstractive Opinion Tagging&lt;/a&gt; considers opinion tagging from multiple documents, that is, from all of the reviewsfor a given item.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Opinion summarization&lt;/strong&gt;: Opinion summarization has become an emerging research topicin recent years. Early studies on opinion summarization focus onextracting salient sentences from text: Hu and Liu[4] identify item features mentioned in the reviews and thenextract opinion sentences for the identified features. Unsupervised learning methods are utilized to extract a review summary by exploiting review helpfulness ratings[5]. To reduce redundancy, a greedy algorithm is also applied to form the final summaries[6]. Reflecting the most representative opinions from reviewers, manyrecent studies have shown that abstractive approaches are more appropriate for summarizing review text: Geraniet al.[7] utilize a template filling strategy to generate a review summary; Wang and Ling[8] apply an encoder-decoder attentionmodel to generate an abstractive summary for opinionated documents. The objective of the above summarization approaches is togenerate coherent sentences to summarize opinions.&lt;/p&gt;
+&lt;p&gt;In contrast, we propose the abstractive opinion tagging task so as to generate opinion tags from a large number of user-generated reviews. In our scenario, opinion tags are more concise but without loss of essential information; they should help users comprehend reviews quickly and conveniently (&lt;strong&gt;this work has been accepted by WSDM 2021&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[1] Zhiqing Sun, Jian Tang, Pan Du, Zhi-Hong Deng, and Jian-Yun Nie. 2019. Div-GraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases. In SIGIR.&lt;/p&gt;
+&lt;p&gt;[2] Hou Pong Chan, Wang Chen, Lu Wang, and Irwin King. 2019. Neural KeyphraseGeneration via Reinforcement Learning with Adaptive Rewards. In ACL.&lt;/p&gt;
+&lt;p&gt;[3] Yue Wang, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, and Shuming Shi. 2019. Topic-Aware Neural Keyphrase Generation for Social Media Language. In ACL.&lt;/p&gt;
+&lt;p&gt;[4] Minqing Hu and Bing Liu. 2004. Mining and Summarizing Customer Reviews. In SIGKDD.&lt;/p&gt;
+&lt;p&gt;[5] Wenting Xiong and Diane J. Litman. 2014. Empirical Analysis of Exploiting Review Helpfulness for Extractive Summarization of Online Reviews. In COLING.&lt;/p&gt;
+&lt;p&gt;[6] Stefanos Angelidis and Mirella Lapata. 2018. Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised. In EMNLP.&lt;/p&gt;
+&lt;p&gt;[7] Shima Gerani, Yashar Mehdad, Giuseppe Carenini, Raymond T. Ng, and BitaNejat. 2014. Abstractive Summarization of Product Reviews Using Discourse Structure. In EMNLP.&lt;/p&gt;
+&lt;p&gt;[8] Lu Wang and Wang Ling. 2016. Neural Network-Based Abstract Generation for Opinions and Arguments. In NAACL.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
