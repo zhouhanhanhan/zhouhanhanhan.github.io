@@ -352,7 +352,7 @@
   <div class="col-12 col-lg-8">
 
     
-    <h1>Biography</h1>
+    <h1>About Me</h1>
 
 
 <p>Hi! I&rsquo;m an incoming PhD student in compuer science at the University of Waterloo. I am fortunately advised by 
@@ -581,7 +581,7 @@ From 2020 to 2023, I worked as a data analyst at Baidu, ShenZhen.</p>
     <div class="stream-meta article-metadata">
       <div>
 
-  <span>Yu Zhao*</span>, <span ><a class="font-weight-bold">Han Zhou*</a></span>, <span >Fuzhen Zhuang</span>, <span >Qing Li</span>, <span >Ji Liu</span>
+  <span>Yu Zhao*</span>, <span ><a class="font-weight-bold">Han Zhou*</a></span>, <span >Fuzhen Zhuang</span>, <span >Qing Li</span>, <span >Ji Liu</span>, <span >(* equal contribution)</span>
       </div>
       
     </div>
@@ -665,7 +665,28 @@ From 2020 to 2023, I worked as a data analyst at Baidu, ShenZhen.</p>
       
 
 
-
+<!-- ========== RESUME ========== -->
+<div class="docs-section" id="resume">
+  <h4>Vita</h4>
+  <!-- The Timeline -->
+  <ul class="timeline">
+    {% for exp in site.data.experience.experiences %}
+    <li>
+      {% if exp.category == "work" %}
+      <div class="direction-l">
+      {% else %}
+      <div class="direction-r">
+      {% endif %}
+        <div class="flag-wrapper">
+          <span class="flag">{{ exp.place }}</span>
+          <span class="time-wrapper"><span class="time">{{ exp.time }}</span></span>
+        </div>
+        <div class="desc"><b>{{ exp.title }}</b> <br/> {{ exp.subtitle }}</div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
 
 
 
@@ -1008,8 +1029,8 @@ From 2020 to 2023, I worked as a data analyst at Baidu, ShenZhen.</p>
 
   <p class="powered-by">
     
-    Published with
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy Website Builder</a>
+    Thanks to
+    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy Website Builder</a> for the website template.
     
 
     

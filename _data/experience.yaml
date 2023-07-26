@@ -1,0 +1,38 @@
+experiences:
+
+- place: "The University of Waterloo"
+  time: "Sep 2023 - "
+  title: "Ph.D. Student"
+  subtitle: "BATMEN Lab"
+  category: "school"
+
+- place: "Baidu"
+  time: "Dec 2020 - Jan 2023"
+  title: "Data Analyst"
+  subtitle: "Big Data Group, GBU"
+  category: "work"
+
+- place: "Southwestern University of Finance and Economics"
+  time: "Jan-Dec 2020"
+  title: "Visiting Student"
+  subtitle: "Fintech Lab"
+  category: "school"
+
+- place: "The University of Hong Kong"
+  time: "May 2019 - Nov 2020"
+  title: "Research Assistant"
+  subtitle: "Bussiness School"
+  category: "school"
+
+
+- place: "The University of Hong Hong"
+  time: "Sep 2018 - Dec 2020"
+  title: "Master Student"
+  subtitle: "Computer Science"
+  category: "school"
+
+- place: "Southwestern University of Finance and Economics"
+  time: "Sep 2014 - July 2018"
+  title: "Bachelor Student"
+  subtitle: "Info Management & Info System (Financial Intelligence) "
+  category: "school"
